@@ -4,9 +4,9 @@ Complete list of all locations:
 
 | Title / Description                                           | Image                         |
 |---------------------------------------------------------------|-------------------------------|
-| [Lisakovsk Pentagram](https://goo.gl/maps/eRwoPjC9SCXAZCoo9)  | ![Image](img/pentagram.jpg)   |
-| [Lightning](https://www.google.com/maps/@45.6980448,24.2723224,3a,90y,269.7h,82.48t/data=!3m6!1e1!3m4!1s-EDX68YR1nbbz7iqY4WTBA!2e0!7i13312!8i6656)| ![Image](img/lightning.jpg)|
-| [Cows](https://www.google.com/maps/@51.607955,94.1958186,0a,102.8y,275.42h,89t/data=!3m4!1e1!3m2!1shCHjl-ALsKNzwmh81r-kbg!2e0?source=apiv3) | ![Image](img/cows.jpg) |
+| [Lisakovsk Pentagram](https://goo.gl/maps/eRwoPjC9SCXAZCoo9)  | ![Image](img/Pentagram.jpg)   |
+| [Lightning](https://www.google.com/maps/@45.6980448,24.2723224,3a,90y,269.7h,82.48t/data=!3m6!1e1!3m4!1s-EDX68YR1nbbz7iqY4WTBA!2e0!7i13312!8i6656)| ![Image](img/Lightning.jpg)|
+| [Cows](https://www.google.com/maps/@51.607955,94.1958186,0a,102.8y,275.42h,89t/data=!3m4!1e1!3m2!1shCHjl-ALsKNzwmh81r-kbg!2e0?source=apiv3) | ![Image](img/Cows.jpg) |
 | [Alien](https://www.google.com/maps/@59.5644609,150.8144736,0a,102.8y,57.81h,91.08t/data=!3m4!1e1!3m2!1s9TH-8Udy8Ai293QgBIDtkw!2e0?source=apiv3) | ![Image](img/Alien.jpg) |
 | [Buzludzha Monument](https://www.google.com/maps/@42.7360272,25.3936643,3a,75y,90t/data=!3m7!1e1!3m5!1sAF1QipPm7Wy6IORDyc91FLPN3remi3AAfkk6hWwmNOhU!2e10!3e12!7i10000!8i5000) | ![Image](img/BuzludzhaMonument.jpg) |
 | [Snow Trucks](https://www.google.com/maps/@67.8752358,68.3928589,3a,90y,250.8h,99.27t/data=!3m7!1e1!3m5!1sAF1QipO9O1_X5vdTs0e7ArBUrl5_7pmCHzZ8Nh4Ftboj!2e10!3e12!7i3840!8i1919) | ![Image](img/SnowTrucks.jpg) |
@@ -23,7 +23,7 @@ Complete list of all locations:
 | [Sayano–Shushenskaya Dam](https://www.google.com/maps/@52.8255092,91.3706303,3a,75y,173h,90t/data=!3m7!1e1!3m5!1sAF1QipNguuXZuzb1NV_z-6L0a6mqmUik9P1B6A95xhSO!2e10!3e12!7i8704!8i4352) | ![Image](img/SayanoDam.jpg) |
 | ["To Heroes of the Battle of Stalingrad"](https://www.google.com/maps/@48.7419011,44.5381101,3a,75y,268.82h,114.29t/data=!3m7!1e1!3m5!1sAF1QipM-n4y1YIolaBaXUXtaE740rJrr1x0aKpw7D7Iq!2e10!3e12!7i8000!8i4000) | ![Image](img/BattleOfStalingrad.jpg) |
 | [Shukhovskaya Bashnya Na Oke](https://www.google.com/maps/@56.193323,43.5437027,0a,102.8y,243.76h,96.13t/data=!3m4!1e1!3m2!1sAF1QipPRMHkwBXD4CjmFRsbyIzGigiEbdStcxR_SlicY!2e10?source=apiv3) | ![Image](img/PowerPole.jpg) |
-| [Among Us](https://www.google.com/maps/@69.3220076,88.2054449,3a,75y,71.74h,80.31t,353.1r/data=!3m7!1e1!3m5!1sAF1QipOtI2hX_aoONRLwVWxCVDlXc7kQCBKNwmVhDmXo!2e10!3e12!7i5376!8i2688) | ![Image](img/amogus.jpg) |
+| [Among Us](https://www.google.com/maps/@69.3220076,88.2054449,3a,75y,71.74h,80.31t,353.1r/data=!3m7!1e1!3m5!1sAF1QipOtI2hX_aoONRLwVWxCVDlXc7kQCBKNwmVhDmXo!2e10!3e12!7i5376!8i2688) | ![Image](img/Amogus.jpg) |
 | [Ostankino Television Tower](https://www.google.com/maps/@55.819879,37.6120255,2a,75y,102.42h,81.99t/data=!3m6!1e1!3m4!1s0jzG1fo7nMMAAAQ4-fe_TA!2e0!7i13312!8i6656) | ![Image](img/TVtower.jpg) |
 | [Monument to the Revolution of the People of Moslavina](https://www.google.com/maps/@45.6406561,16.7779364,3a,90y,337.24h,110.27t/data=!3m7!1e1!3m5!1sAF1QipNtRFGU0yjkul27zN0iZiZfH9zybyjiZvFOi_E!2e10!3e12!7i8704!8i4352) | ![Image](img/MoslavinaMonument.jpg) |
 | [Oljokma River](https://www.google.com/maps/@57.2562981,121.0425262,3a,90y,340.69h,94.72t/data=!3m7!1e1!3m5!1sAF1QipMbQC0e0ZXU4OiRAqm2_yZlwJq2iU1UdaQweOPc!2e10!3e12!7i10000!8i5000) | ![Image](img/OljokmaRiver.jpg) |
