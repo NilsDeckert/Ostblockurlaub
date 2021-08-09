@@ -1,4 +1,4 @@
-var cat1 = [
+var locations = [
     "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3056.448397356477!2d62.1868845!3d52.4796536!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sde!2sde!4v1596661338688!5m2!1sde!2sde", // Maps Pentagram
     "https://www.google.com/maps/embed?pb=!4v1596664682911!6m8!1m7!1s-EDX68YR1nbbz7iqY4WTBA!2m2!1d45.6980475604722!2d24.27231637043689!3f269.7!4f-7.519999999999996!5f0.4000000000000002",  // Lightning
     "https://www.google.com/maps/embed?pb=!4v1596664518888!6m8!1m7!1shCHjl-ALsKNzwmh81r-kbg!2m2!1d51.60795449410568!2d94.19581960589126!3f275.42!4f-1!5f0.4000000000000002",    // Cows
@@ -27,8 +27,8 @@ var cat1 = [
 var myFrame = document.getElementById("frame");
 
 function getRandomUrl(myFrame) {
-    var index = Math.floor(Math.random() * cat1.length);
-    var url = cat1[index];
+    var index = Math.floor(Math.random() * locations.length);
+    var url = locations[index];
     myFrame.dataset.src = url;
 }
 
